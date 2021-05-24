@@ -17,7 +17,9 @@ var iPhoneXCapability = {
     deviceName: 'iPhone X',
     platformName: 'iOS',
     name: 'My First Mobile Test',
-    automationName: 'XCUITest'
+    automationName: 'XCUITest',
+    bundleId: 'com.ionicframework.conferenceapp',
+    udid: '234sdfsd2sdfsdf'
 };
 var androidPixel2XLCapability = {
     browserName: '',
